@@ -1,4 +1,4 @@
-# SD-Card-Info-Arduino
+# SD Card Info Arduino
 
 SD card test in Arduino board.
 
